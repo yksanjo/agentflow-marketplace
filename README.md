@@ -1,5 +1,12 @@
 # agentflow-marketplace
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/agentflow-marketplace/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/agentflow-marketplace/actions)
+![License](https://img.shields.io/github/license/yksanjo/agentflow-marketplace)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/agentflow-marketplace)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/agentflow-marketplace)
+
 ## Detailed Description
 
 agentflow-marketplace is maintained as an industry-grade software project with production-ready engineering practices.  
